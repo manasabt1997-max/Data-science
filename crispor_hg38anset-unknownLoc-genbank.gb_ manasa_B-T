@@ -1,0 +1,233 @@
+LOCUS       hg38anset-unknownLoc    316 bp      DNA     linear   1/1/17
+DEFINITION  Sequence exported from CRISPOR.org V5.2
+            Genome hg38anset, position ?. View full CRISPOR results at http://cr
+            ispor.gi.ucsc.edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG
+             Export for: genbank
+SOURCE      hg38anset
+  ORGANISM  hg38anset
+FEATURES             Location/Qualifiers
+     misc_feature    21..23
+                     /label="21forw"
+                     /note="MIT-Specificity score: 90, Efficiency Doench2016 = -
+                     1, Efficiency Moreno-Mateos = -1, guide sequence: GGAAGGATC
+                     ATTACGAAATT, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s20%2B&p
+                     am=NGG"
+     misc_feature    31..33
+                     /label="31forw"
+                     /note="MIT-Specificity score: 100, Efficiency Doench2016 = 
+                     -1, Efficiency Moreno-Mateos = -1, guide sequence: TTACGAAA
+                     TTCGGCGCGCTT, full details/primers at http://crispor.gi.ucs
+                     c.edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s30%2B&
+                     pam=NGG"
+     misc_feature    complement(39..41)
+                     /label="39rev"
+                     /note="MIT-Specificity score: 59, Efficiency Doench2016 = -
+                     1, Efficiency Moreno-Mateos = -1, guide sequence: AGACAAAGG
+                     GTGGGTGAATA, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s38-&pam
+                     =NGG"
+     misc_feature    complement(48..50)
+                     /label="48rev"
+                     /note="MIT-Specificity score: 54, Efficiency Doench2016 = 7
+                     1, Efficiency Moreno-Mateos = 50, guide sequence: GGTACACGT
+                     AGACAAAGGGT, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s47-&pam
+                     =NGG"
+     misc_feature    complement(49..51)
+                     /label="49rev"
+                     /note="MIT-Specificity score: 58, Efficiency Doench2016 = 6
+                     0, Efficiency Moreno-Mateos = 62, guide sequence: AGGTACACG
+                     TAGACAAAGGG, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s48-&pam
+                     =NGG"
+     misc_feature    complement(52..54)
+                     /label="52rev"
+                     /note="MIT-Specificity score: 81, Efficiency Doench2016 = 5
+                     2, Efficiency Moreno-Mateos = 66, guide sequence: TAGAGGTAC
+                     ACGTAGACAAA, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s51-&pam
+                     =NGG"
+     misc_feature    complement(53..55)
+                     /label="53rev"
+                     /note="MIT-Specificity score: 78, Efficiency Doench2016 = 6
+                     6, Efficiency Moreno-Mateos = 57, guide sequence: ATAGAGGTA
+                     CACGTAGACAA, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s52-&pam
+                     =NGG"
+     misc_feature    complement(69..71)
+                     /label="69rev"
+                     /note="MIT-Specificity score: 91, Efficiency Doench2016 = 5
+                     3, Efficiency Moreno-Mateos = 44, guide sequence: GCCCGCCGA
+                     GGAAGCTATAG, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s68-&pam
+                     =NGG"
+     misc_feature    complement(81..83)
+                     /label="81rev"
+                     /note="MIT-Specificity score: 71, Efficiency Doench2016 = 4
+                     5, Efficiency Moreno-Mateos = 77, guide sequence: GGCGGCGGG
+                     CGAGCCCGCCG, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s80-&pam
+                     =NGG"
+     misc_feature    84..86
+                     /label="84forw"
+                     /note="MIT-Specificity score: 84, Efficiency Doench2016 = 5
+                     2, Efficiency Moreno-Mateos = 50, guide sequence: GTGTACCTC
+                     TATAGCTTCCT, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s83%2B&p
+                     am=NGG"
+     misc_feature    87..89
+                     /label="87forw"
+                     /note="MIT-Specificity score: 89, Efficiency Doench2016 = 7
+                     0, Efficiency Moreno-Mateos = 56, guide sequence: TACCTCTAT
+                     AGCTTCCTCGG, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s86%2B&p
+                     am=NGG"
+     misc_feature    88..90
+                     /label="88forw"
+                     /note="MIT-Specificity score: 90, Efficiency Doench2016 = 4
+                     7, Efficiency Moreno-Mateos = 30, guide sequence: ACCTCTATA
+                     GCTTCCTCGGC, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s87%2B&p
+                     am=NGG"
+     misc_feature    complement(95..97)
+                     /label="95rev"
+                     /note="MIT-Specificity score: 83, Efficiency Doench2016 = 4
+                     4, Efficiency Moreno-Mateos = 66, guide sequence: TTTCGTGGG
+                     TTCCTGGCGGC, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s94-&pam
+                     =NGG"
+     misc_feature    complement(96..98)
+                     /label="96rev"
+                     /note="MIT-Specificity score: 89, Efficiency Doench2016 = 3
+                     3, Efficiency Moreno-Mateos = 65, guide sequence: GTTTCGTGG
+                     GTTCCTGGCGG, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s95-&pam
+                     =NGG"
+     misc_feature    complement(99..101)
+                     /label="99rev"
+                     /note="MIT-Specificity score: 70, Efficiency Doench2016 = 6
+                     4, Efficiency Moreno-Mateos = 72, guide sequence: GGGGTTTCG
+                     TGGGTTCCTGG, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s98-&pam
+                     =NGG"
+     misc_feature    complement(102..104)
+                     /label="102rev"
+                     /note="MIT-Specificity score: 82, Efficiency Doench2016 = 2
+                     8, Efficiency Moreno-Mateos = 41, guide sequence: CAAGGGGTT
+                     TCGTGGGTTCC, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s101-&pa
+                     m=NGG"
+     misc_feature    104..106
+                     /label="104forw"
+                     /note="MIT-Specificity score: 66, Efficiency Doench2016 = 3
+                     2, Efficiency Moreno-Mateos = 69, guide sequence: CGGCGGGCT
+                     CGCCCGCCGCC, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s103%2B&
+                     pam=NGG"
+     misc_feature    complement(109..111)
+                     /label="109rev"
+                     /note="MIT-Specificity score: 91, Efficiency Doench2016 = 5
+                     6, Efficiency Moreno-Mateos = 35, guide sequence: TATAATGCA
+                     AGGGGTTTCGT, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s108-&pa
+                     m=NGG"
+     misc_feature    complement(110..112)
+                     /label="110rev"
+                     /note="MIT-Specificity score: 90, Efficiency Doench2016 = 4
+                     8, Efficiency Moreno-Mateos = 26, guide sequence: GTATAATGC
+                     AAGGGGTTTCG, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s109-&pa
+                     m=NGG"
+     misc_feature    complement(118..120)
+                     /label="118rev"
+                     /note="MIT-Specificity score: 53, Efficiency Doench2016 = 6
+                     3, Efficiency Moreno-Mateos = 38, guide sequence: GTTTTCGTG
+                     TATAATGCAAG, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s117-&pa
+                     m=NGG"
+     misc_feature    complement(119..121)
+                     /label="119rev"
+                     /note="MIT-Specificity score: 78, Efficiency Doench2016 = 5
+                     4, Efficiency Moreno-Mateos = 47, guide sequence: AGTTTTCGT
+                     GTATAATGCAA, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s118-&pa
+                     m=NGG"
+     misc_feature    complement(120..122)
+                     /label="120rev"
+                     /note="MIT-Specificity score: 78, Efficiency Doench2016 = 5
+                     7, Efficiency Moreno-Mateos = 45, guide sequence: AAGTTTTCG
+                     TGTATAATGCA, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s119-&pa
+                     m=NGG"
+     misc_feature    complement(154..156)
+                     /label="154rev"
+                     /note="MIT-Specificity score: 42, Efficiency Doench2016 = 2
+                     8, Efficiency Moreno-Mateos = 11, guide sequence: GTTGAAAGT
+                     TGTAATAATTT, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s153-&pa
+                     m=NGG"
+     misc_feature    179..181
+                     /label="179forw"
+                     /note="MIT-Specificity score: 48, Efficiency Doench2016 = 4
+                     9, Efficiency Moreno-Mateos = 28, guide sequence: ATTATTACA
+                     ACTTTCAACAA, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s178%2B&
+                     pam=NGG"
+     misc_feature    188..190
+                     /label="188forw"
+                     /note="MIT-Specificity score: 72, Efficiency Doench2016 = 4
+                     1, Efficiency Moreno-Mateos = 22, guide sequence: ACTTTCAAC
+                     AATGGATCTCT, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s187%2B&
+                     pam=NGG"
+     misc_feature    194..196
+                     /label="194forw"
+                     /note="MIT-Specificity score: 74, Efficiency Doench2016 = 2
+                     6, Efficiency Moreno-Mateos = 38, guide sequence: AACAATGGA
+                     TCTCTTGGTTC, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s193%2B&
+                     pam=NGG"
+     misc_feature    280..282
+                     /label="280forw"
+                     /note="MIT-Specificity score: 58, Efficiency Doench2016 = -
+                     1, Efficiency Moreno-Mateos = -1, guide sequence: GAATCTTTG
+                     AACGCACATTG, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s279%2B&
+                     pam=NGG"
+     misc_feature    complement(283..285)
+                     /label="283rev"
+                     /note="MIT-Specificity score: 83, Efficiency Doench2016 = -
+                     1, Efficiency Moreno-Mateos = -1, guide sequence: CATGGCCAA
+                     AGGAATACCTA, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s282-&pa
+                     m=NGG"
+     misc_feature    287..289
+                     /label="287forw"
+                     /note="MIT-Specificity score: 93, Efficiency Doench2016 = -
+                     1, Efficiency Moreno-Mateos = -1, guide sequence: TGAACGCAC
+                     ATTGCGGCCAT, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s286%2B&
+                     pam=NGG"
+     misc_feature    complement(294..296)
+                     /label="294rev"
+                     /note="MIT-Specificity score: 78, Efficiency Doench2016 = -
+                     1, Efficiency Moreno-Mateos = -1, guide sequence: GCTCGAACA
+                     GGCATGGCCAA, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s293-&pa
+                     m=NGG"
+     misc_feature    298..300
+                     /label="298forw"
+                     /note="MIT-Specificity score: 90, Efficiency Doench2016 = -
+                     1, Efficiency Moreno-Mateos = -1, guide sequence: TGCGGCCAT
+                     AGGTATTCCTT, full details/primers at http://crispor.gi.ucsc
+                     .edu/crispor.py?batchId=Ie4dNrNIh09aKm4fo0GG&pamId=s297%2B&
+                     pam=NGG"
+ORIGIN
+        1 GGAAGGATCA TTACGAAATT CGGCGCGCTT CGGCGCTGCC TTATTCACCC ACCCTTTGTC
+       61 TACGTGTACC TCTATAGCTT CCTCGGCGGG CTCGCCCGCC GCCAGGAACC CACGAAACCC
+      121 CTTGCATTAT ACACGAAAAC TTCTGATAAC AAACCTAAAT TATTACAACT TTCAACAATG
+      181 GATCTCTTGG TTCTGGCATC GATGAAGAAC GCAGCGAAAT GCGATAAGTA GTGTGAATTG
+      241 CAGAATTCAG TGAATCATCG AATCTTTGAA CGCACATTGC GGCCATAGGT ATTCCTTTGG
+      301 CCATGCCTGT TCGAGC
+//
