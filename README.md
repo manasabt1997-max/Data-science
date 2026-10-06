@@ -1,1 +1,1 @@
-# practice-basics
+Data_science Assignments
